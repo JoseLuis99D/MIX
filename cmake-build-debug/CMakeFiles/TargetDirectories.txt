@@ -1,0 +1,3 @@
+C:/Users/cuent/Documents/ESCOM/6to Semestre/Ingenieria de Software/MIX/cmake-build-debug/CMakeFiles/MIX.dir
+C:/Users/cuent/Documents/ESCOM/6to Semestre/Ingenieria de Software/MIX/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/cuent/Documents/ESCOM/6to Semestre/Ingenieria de Software/MIX/cmake-build-debug/CMakeFiles/rebuild_cache.dir

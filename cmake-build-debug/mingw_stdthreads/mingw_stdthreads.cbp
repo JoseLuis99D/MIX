@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="mingw_stdthreads"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\mingw_stdthreads\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/cuent/Documents/ESCOM/6to Semestre/Ingenieria de Software/MIX/cmake-build-debug/mingw_stdthreads"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/cuent/Documents/ESCOM/6to Semestre/Ingenieria de Software/MIX/cmake-build-debug/mingw_stdthreads/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/cuent/Documents/ESCOM/6to Semestre/Ingenieria de Software/MIX/cmake-build-debug/mingw_stdthreads/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/cuent/Documents/ESCOM/6to Semestre/Ingenieria de Software/MIX/cmake-build-debug/mingw_stdthreads/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/cuent/Documents/ESCOM/6to Semestre/Ingenieria de Software/MIX/cmake-build-debug/mingw_stdthreads/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/cuent/Documents/ESCOM/6to Semestre/Ingenieria de Software/MIX/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/cuent/Documents/ESCOM/6to Semestre/Ingenieria de Software/MIX/mingw_stdthreads/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\mingw_stdthreads\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
